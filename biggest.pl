@@ -2,7 +2,7 @@
 
 ################################################################################
 # File:       biggest.pl
-# Author:     Noah Potti
+# Author:     Noah 
 # Usage:      biggest.pl [args]
 #               Lists all largest file in either current working directory or a 
 #		specified directory.
