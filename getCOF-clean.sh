@@ -30,7 +30,7 @@ STOCK_PRICE="$(lynx -source $URL | grep -o 'yfs_l84_cof.......' | sed 's/yfs_l84
 echo $STOCK_PRICE > /tmp/stock_price
 
 echo
-echo $date
+echo $DATE
 echo "Capital One Financial Corp. (COF)"
 echo "Stock Price: " $STOCK_PRICE
 
